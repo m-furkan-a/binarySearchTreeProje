@@ -6,4 +6,8 @@
 Roor 5'dir.5'in sağında kendisinden büyük sayılar solunda küçük sayılar bulunur.  
 ---5    
 3 - - - 7   
-sonraki aşamada diğer sayılar içinde aynı işlem uygulanır.
+sonraki aşamada diğer sayılar içinde aynı işlem uygulanır.  
+-------3  
+----2 - - - 4  
+--1  
+0  
